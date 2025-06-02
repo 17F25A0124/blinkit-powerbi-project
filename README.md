@@ -70,7 +70,7 @@ This project presents an interactive dashboard to help stakeholders understand s
 ## 📷 Dashboard Screenshots
 
 ### 🔹 Main Dashboard View
-![Main Dashboard](./images/dashboard-main.png)
+![Main Dashboard](./images/dashboard-mian.png)
 
 ### 🔹 Sales by Fat Content
 ![Sales by Fat Content](./images/dashboard-fat-content.png)
