@@ -78,7 +78,6 @@ This project presents an interactive dashboard to help stakeholders understand s
 ### 🔹 Sales by Item Type
 ![Sales by Item Type](./images/dashboard-item-type.png)
 
-> ⚠️ *Make sure to place your dashboard screenshots in an `images` folder and update the file names accordingly.*
 
 ---
 
