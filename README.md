@@ -73,7 +73,7 @@ This project presents an interactive dashboard to help stakeholders understand s
 ![Main Dashboard](./images/dashboard-mian.png)
 
 ### 🔹 Sales by Fat Content
-![Sales by Fat Content](./images/dashboard-fat-content.png)
+![Sales by Fat Content](./images/fat-content.png)
 
 ### 🔹 Sales by Item Type
 ![Sales by Item Type](./images/dashboard-item-type.png)
